@@ -1,3 +1,15 @@
+// WAP to print all the index in newline of given character ch form the inputString.
+
+//  input:
+//  char ch = 'a';
+//  String inputString = "vaibhav";
+
+//  output:
+//  1
+//  5
+
+
+
 import java.util.Scanner;
 public class Question11 {
     public static void main(String[] args) {
